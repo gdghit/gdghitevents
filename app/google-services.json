@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573457642827",
+    "firebase_url": "https://gdgeventsapp.firebaseio.com",
+    "project_id": "gdgeventsapp",
+    "storage_bucket": "gdgeventsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573457642827:android:963126a7b480d5e2",
+        "android_client_info": {
+          "package_name": "com.gdg.hit.events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573457642827-9pljcplkov6cmu9fo3hbjk3k7ldvkpf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdg.hit.events",
+            "certificate_hash": "2DA4D2F0956CFA9B133381656DEFDB3C9775ABB3"
+          }
+        },
+        {
+          "client_id": "573457642827-ivnhieldhkgi5vq6d09ruc04i4p2em82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34e9l2JPls4WradPpijcUg9a0rxO-Dmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573457642827-ivnhieldhkgi5vq6d09ruc04i4p2em82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
